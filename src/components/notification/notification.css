@@ -1,0 +1,27 @@
+.notification {
+  border: 1px solid black;
+  display: flex;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.post {
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 20px;
+  color: #5e6778;
+}
+
+.group-name {
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 20px;
+  color: #0a327b;
+}
+
+.read {
+  width: 8px;
+  height: 8px;
+  background-color: #f65552;
+  border-radius: 50%;
+}
